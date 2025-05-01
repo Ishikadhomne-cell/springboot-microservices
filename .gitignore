@@ -1,0 +1,16 @@
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Java build output
+**/target/
+*.log
+
+# Node.js/React frontend (if present)
+**/node_modules/
+**/build/
+**/dist/
+
+# OS/system files
+.DS_Store
+Thumbs.db
